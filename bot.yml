@@ -7,8 +7,8 @@ avatar: resources/avatar.png
 #    friendly_name: Some Unnecessary Option
 #    info: This is an unnecessary option
 #    default: the default value
-#  - name: SECRET
-#    friendly_name: Shhhh
+#  - name: Test Bot
+#    friendly_name: Test
 #    info: This is an secret option
 #    type: secret
 #    default: not secret though
